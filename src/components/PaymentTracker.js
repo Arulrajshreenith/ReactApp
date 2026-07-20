@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function PaymentTracker() {
-  const [payments, setPayments] = useState([
+  const [payments] = useState([
     { id: 1, member: 'John Doe', amount: 5000, date: '2026-01-15', status: 'Paid' },
     { id: 2, member: 'Jane Smith', amount: 5000, date: '2026-01-15', status: 'Pending' },
     { id: 3, member: 'Bob Johnson', amount: 5000, date: '2026-01-15', status: 'Paid' }
