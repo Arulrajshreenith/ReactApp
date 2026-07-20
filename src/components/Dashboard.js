@@ -19,6 +19,7 @@ function Dashboard() {
   return (
     <div>
       <h2>Dashboard</h2>
+      <h1>Test code </h1>
       <div className="row mt-4">
         <div className="col-md-4">
           <div className="card text-white bg-success mb-3">
