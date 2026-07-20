@@ -18,7 +18,7 @@ function Dashboard() {
 
   return (
     <div>
-      <h2>Dashboard</h2>
+      <h2>Dashboardss</h2>
       <h1>Test code </h1>
       <div className="row mt-4">
         <div className="col-md-4">
