@@ -11,7 +11,7 @@ function App() {
   return (
     <Router> 
       <div className="App">
-        <Navbar />
+        <Navbar /> 
         <div className="container mt-4">
           <Routes>
             <Route path="/" element={<Dashboard />} />
