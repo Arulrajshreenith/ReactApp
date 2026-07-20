@@ -9,7 +9,7 @@ import Login from './components/Login';
 
 function App() {
   return (
-    <Router>
+    <Router> 
       <div className="App">
         <Navbar />
         <div className="container mt-4">
