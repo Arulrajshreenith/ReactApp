@@ -1,0 +1,9 @@
+{
+  "appId": "com.company.myapp",
+  "appName": "MyApp",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
